@@ -1,0 +1,11 @@
+div[id*="todo-"] {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+#count-area {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
